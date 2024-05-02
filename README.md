@@ -19,5 +19,5 @@
 - [ ] Testing
 
 # PASSED TESTS SCREENSHOT 
-<span>https://github.com/Egrillet89/backend_test_hack/blob/main/test_backend.png</span><span>)</span>
+<span>https://github.com/Egrillet89/backend_test_hack/blob/main/test_backend.png</span><span></span>
 

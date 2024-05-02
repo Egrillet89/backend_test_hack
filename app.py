@@ -61,8 +61,6 @@ def test_hack_7():
 @app.route('/api/v1/user/create', methods=['POST'])
 def test_hack_8():
     data = request.get_json()
-    if not data or 'email' not in data or 'name' not in data or 'id' not in data:
-        return jsonify({'error': 'Bad Request'}), 400
     email = data.get('email')
     name = data.get('name')
     id = data.get('id')
